@@ -24,9 +24,7 @@
 <h1><p align="center">Useful links</p></h1>
 <p align="right"><a href="#Content">To the content</a></p>
 
-⠀[py-okx-async](https://github.com/SecorD0/py-okx-async)
-
-⠀[py-okx](https://github.com/SecorD0/py-okx)
+⠀[py-okx-async](https://github.com/TechmanWax/py-okx-async)
 
 
 
@@ -35,7 +33,7 @@
 
 ⠀You need execute the command below to install or update the library:
 ```sh
-pip install --force-reinstall git+https://github.com/SecorD0/py-okx-async
+pip install --force-reinstall git+https://github.com/TechmanWax/py-okx-async
 ```
 
 
@@ -43,7 +41,7 @@ pip install --force-reinstall git+https://github.com/SecorD0/py-okx-async
 <h1><p align="center">Report a bug or suggest an idea</p></h1>
 <p align="right"><a href="#Content">To the content</a></p>
 
-⠀If you found a bug or have an idea, go to [the link](https://github.com/SecorD0/py-okx-async/issues/new/choose), select the template, fill it out and submit it.
+⠀If you found a bug or have an idea, go to [the link](https://github.com/TechmanWax/py-okx-async/issues/new/choose), select the template, fill it out and submit it.
 
 
 
